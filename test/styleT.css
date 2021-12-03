@@ -4,7 +4,6 @@ header #diensten           /*de achtergrond van het logo en de tabel*/
     padding-left: 120px;
     height: 100px;                                             
     background-color: rgb(0,16,42,255);                                   
-    border-bottom: 2px solid rgb(0,16,42,255);    
 }
 
 #logo{   
@@ -26,8 +25,7 @@ header #sitenavigatie li       /*ook de tabel zelf naast het logo*/
 {
     margin-left: 70px;   
     display: inline-block;           
-    margin-right: 10px;       
-                                                                                                                              
+    margin-right: 10px;                                                                                                              
 }
 
 header #sitenavigatie a          /*de tekst in de tabel*/                                 
@@ -47,8 +45,7 @@ header #sitenavigatie a:hover     /*als je over een van de labels in de tabel ga
 header #sitenavigatie a.actief    /**/                     
 {
     color: #ffffff;                                          
-    font-weight: 700;             
-                               
+    font-weight: 700;                              
 }
 main #sectie1                                                 
 {
@@ -262,10 +259,4 @@ body
 .rij_correctie
 {
     width: 110%;
-}
-#tentoonstelling1{
-    height: 100px;
-}
-#tentoonstelling2{
-    
 }

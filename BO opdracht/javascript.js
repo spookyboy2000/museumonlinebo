@@ -74,10 +74,11 @@ let locaties = [
         }
     },
     {//4
-        "titel":"",
-        "image":"img/4.jpg",
+        "titel":"de ingang naar de yacht modellen",
+        "image":"img/interactieveroutefotos/kamer9/0.jpg",
         "directions":{
-
+            "noord": 0,
+            "oost": 7,
         }
     },
     {//5
@@ -92,14 +93,17 @@ let locaties = [
         "titel":"de gang naar de Willem van Gelde tentoonstelling",
         "image":"img/interactieveroutefotos/kamer3/0.jpg",
         "directions":{
-
+            "noord": 9,
+            "oost": 3,
+            "zuid": 12,
         }
     },
     {//7
-        "titel":"",
-        "image":"img/7.jpg",
+        "titel":"jachtmodellen",
+        "image":"img/interactieveroutefotos/kamer9/1.jpg",
         "directions":{
-
+            "west": 4,
+            "oost": 11
         }
     },
     {//8
@@ -111,10 +115,10 @@ let locaties = [
         }
     },
     {//9
-        "titel":"",
+        "titel":"de Willem van Gelde tentoonstelling",
         "image":"img/interactieveroutefotos/kamer3/2.jpg",
         "directions":{
-
+            "noord": 6,
         }
     },
     {//10
@@ -125,17 +129,17 @@ let locaties = [
         }
     },
     {//11
-        "titel":"",
-        "image":"img/11.jpg",
+        "titel":"nog meer yacht modellen",
+        "image":"img/interactieveroutefotos/kamer9/2.jpg",
         "directions":{
-
+            "west": 7
         }
     },
     {//12
-        "titel":"",
-        "image":"img/11.jpg",
+        "titel":"een schets genaamd 'vloet op de rede'",
+        "image":"img/interactieveroutefotos/kamer3/6.jpg",
         "directions":{
-
+            "zuid": 6,
         }
     },
     {//13

@@ -423,8 +423,9 @@ main #sectie5{
   min-height: 100vh;
 }
 figure{
-  width: 600px;
+  width: 800px;
   height: 600px;
   background: red;
-  background-image: url();
+  background-image: url("img/kaart.png");
+  background-size: cover;
 }

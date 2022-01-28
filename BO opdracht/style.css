@@ -340,7 +340,10 @@ footer {
   font-weight: bold;
   font-size: 20px;
 }
-
+button > a{
+  text-decoration: none;
+  color: white;
+}
 .adres {
   float: left;
   width: 33%;
@@ -389,7 +392,7 @@ footer {
 }
 #mapImage{
   position: absolute;
-  left: 1100px;
+  left: 1000px;
   top: 550px;
 
 }

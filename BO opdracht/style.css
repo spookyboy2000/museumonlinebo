@@ -392,8 +392,8 @@ button > a{
 }
 #mapImage{
   position: absolute;
-  left: 1100px;
-  top: 550px;
+  left: 70%;
+  top: 60%;
 
 }
 #myImage{
